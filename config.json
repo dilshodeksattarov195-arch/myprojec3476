@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsender",
+        "uuid": 11293524,
+        "checksum": "bbm7bo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
